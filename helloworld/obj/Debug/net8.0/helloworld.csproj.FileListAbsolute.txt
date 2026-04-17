@@ -1,0 +1,14 @@
+/Users/trishapadgelwar/Desktop/WebApp/helloworld/bin/Debug/net8.0/helloworld
+/Users/trishapadgelwar/Desktop/WebApp/helloworld/bin/Debug/net8.0/helloworld.deps.json
+/Users/trishapadgelwar/Desktop/WebApp/helloworld/bin/Debug/net8.0/helloworld.runtimeconfig.json
+/Users/trishapadgelwar/Desktop/WebApp/helloworld/bin/Debug/net8.0/helloworld.dll
+/Users/trishapadgelwar/Desktop/WebApp/helloworld/bin/Debug/net8.0/helloworld.pdb
+/Users/trishapadgelwar/Desktop/WebApp/helloworld/obj/Debug/net8.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trishapadgelwar/Desktop/WebApp/helloworld/obj/Debug/net8.0/helloworld.AssemblyInfoInputs.cache
+/Users/trishapadgelwar/Desktop/WebApp/helloworld/obj/Debug/net8.0/helloworld.AssemblyInfo.cs
+/Users/trishapadgelwar/Desktop/WebApp/helloworld/obj/Debug/net8.0/helloworld.csproj.CoreCompileInputs.cache
+/Users/trishapadgelwar/Desktop/WebApp/helloworld/obj/Debug/net8.0/helloworld.dll
+/Users/trishapadgelwar/Desktop/WebApp/helloworld/obj/Debug/net8.0/refint/helloworld.dll
+/Users/trishapadgelwar/Desktop/WebApp/helloworld/obj/Debug/net8.0/helloworld.pdb
+/Users/trishapadgelwar/Desktop/WebApp/helloworld/obj/Debug/net8.0/helloworld.genruntimeconfig.cache
+/Users/trishapadgelwar/Desktop/WebApp/helloworld/obj/Debug/net8.0/ref/helloworld.dll
